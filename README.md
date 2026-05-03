@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ArghoPH">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Full%20Stack%20Web%20Developer;DevOps%20Engineer&center=true&width=520&height=60">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Designer;Full%20Stack%20Web%20Developer;Front-End%20Engineer&center=true&width=520&height=60">
   </a>
 </p>
 
