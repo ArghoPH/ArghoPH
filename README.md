@@ -1,4 +1,4 @@
-## Hi 👋, I’m **Md. Sohanur Karim**
+## Hi 👋, I’m **Argho Chakma**
 
 <p align="center">
   <a href="https://github.com/ArghoPH">
@@ -6,19 +6,18 @@
   </a>
 </p>
 
-I am a **Software Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **UI/UX, PHP, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
+I am a **Front-End Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **Software, Mobile Application, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
 
-🌱 **Currently working as a Mobile Application Developer at [SFDW](https://shakti.org.bd)**
+🌱 **Currently working as a Front-End Engineer at [SFDW](https://shakti.org.bd)**
 
 ---
 
 ## 🚀 Core Expertise
 
-- Front End Development
-- Full Stack Web Development
+- Front-End Developer
+- Full Stack Web Developer 
 - DevOps & CI/CD Pipeline Automation
-- UI/UX Design & Prototyping
-- Networking & System Fundamentals
+- UI/UX Design & Prototyping 
 
 ---
 
@@ -71,21 +70,10 @@ I am a **Software Developer, DevOps Engineer, and Full Stack Web Developer** wit
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohanurKarim&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohanurKarim&theme=transparent"/>
-</p>
-
----
-
 ## ☕ Contact With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohanur-karim-9a867214b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohanur.vu5.cse5@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KA67wbqBE/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghochakma2023@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SohanurKarim&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ArghoPH&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
