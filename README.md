@@ -1,12 +1,12 @@
 ## Hi 👋, I’m **Md. Sohanur Karim**
 
 <p align="center">
-  <a href="https://github.com/SohanurKarim">
+  <a href="https://github.com/ArghoPH">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Full%20Stack%20Web%20Developer;DevOps%20Engineer&center=true&width=520&height=60">
   </a>
 </p>
 
-I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **Android, Flutter, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
+I am a **Software Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **UI/UX, PHP, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
 
 🌱 **Currently working as a Mobile Application Developer at [SFDW](https://shakti.org.bd)**
 
@@ -14,7 +14,7 @@ I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Devel
 
 ## 🚀 Core Expertise
 
-- Mobile Application Development (Android & Cross-platform)
+- Front End Development
 - Full Stack Web Development
 - DevOps & CI/CD Pipeline Automation
 - UI/UX Design & Prototyping
@@ -24,12 +24,6 @@ I am a **Mobile Application Developer, DevOps Engineer, and Full Stack Web Devel
 
 ## 🛠️ Technologies & Tools
 
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-</p>
 
 ### 🌐 Frontend Development
 <p>
