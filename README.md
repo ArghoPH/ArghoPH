@@ -14,10 +14,15 @@ I am a **Front-End Developer, DevOps Engineer, and Full Stack Web Developer** wi
 
 ## 🚀 Core Expertise
 
-- Front-End Developer
-- Full Stack Web Developer 
-- DevOps & CI/CD Pipeline Automation
-- UI/UX Design & Prototyping 
+-Front-End Development
+-Full Stack Web Development
+-ASP.NET Core Web API Development
+-REST API Design & Integration
+-JWT Authentication & Role-Based Authorization
+-Database Design with PostgreSQL / MongoDB
+-UI/UX Design & Prototyping
+-DevOps & CI/CD Pipeline Automation
+-Cloud Deployment with Render, Vercel, Docker, and Supabase
 
 ---
 
