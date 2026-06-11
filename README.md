@@ -5,8 +5,10 @@
      <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Designer;Full%20Stack%20Web%20Developer;Front-End%20Engineer&center=true&width=520&height=60">
   </a>
 </p>
----
+
 ### 🚀 About Me
+
+---
 
 An innovative and results-driven **Software Engineer** with **1.6+ years of industrial experience** spanning across enterprise web platforms, mobile application architectures, and DevOps engineering. Focused on building scalable backend solutions, high-performance pixel-perfect UI/UX interfaces, and robust automated continuous integration/deployment (CI/CD) pipelines.
 
