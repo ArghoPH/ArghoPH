@@ -5,25 +5,22 @@
      <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Designer;Full%20Stack%20Web%20Developer;Front-End%20Engineer&center=true&width=520&height=60">
   </a>
 </p>
+---
+### 🚀 About Me
 
-I am a **Front-End Developer, DevOps Engineer, and Full Stack Web Developer** with **1.6+ years of industrial experience**. I work across **Software, Mobile Application, Web, and DevOps**, focusing on scalable applications, clean UI/UX, and automated deployment pipelines.
+An innovative and results-driven **Software Engineer** with **1.6+ years of industrial experience** spanning across enterprise web platforms, mobile application architectures, and DevOps engineering. Focused on building scalable backend solutions, high-performance pixel-perfect UI/UX interfaces, and robust automated continuous integration/deployment (CI/CD) pipelines.
 
-🌱 **Currently working as a Front-End Engineer at [SFDW](https://shakti.org.bd)**
+* 💡 **Current Focus:** Building production-ready micro-frontends and optimization of cloud infrastructures.
+* 💼 **Industry Role:** Currently engineering advanced UI/UX frameworks as a **Front-End Engineer at [SFDW (Shakti Foundation)](https://shakti.org.bd)**.
 
 ---
 
-## 🚀 Core Expertise
+### ⚡ Core Architecture Expertise
 
--Front-End Development
--Full Stack Web Development
--ASP.NET Core Web API Development
--REST API Design & Integration
--JWT Authentication & Role-Based Authorization
--Database Design with PostgreSQL / MongoDB
--UI/UX Design & Prototyping
--DevOps & CI/CD Pipeline Automation
--Cloud Deployment with Render, Vercel, Docker, and Supabase
-
+* 🌐 **Frontend Systems:** Component-driven SPAs, reactive workflows, state distribution engines.
+* ⚙️ **Backend Engineering:** RESTful API Design, Microservices, secure session layers via JWT & RBAC governance.
+* 🗄️ **Database Design:** Optimized indexing, relational integrity schemas, and distributed document clusters.
+* 🔒 **DevOps & Infrastructure:** Containerization strategies, GitOps continuous pipelines, cloud asset virtualization.
 ---
 
 ## 🛠️ Technologies & Tools
